@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: cd8ec1deff91c7445ac0b14ed7853371
+timeCreated: 1472313104
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Car_Port_Complete_Frame
+    100002: Car_Port_End_Door
+    100004: Car_Port_End_Panel_Solid
+    100006: Car_Port_Horizontal_Rail
+    100008: Car_Port_Horizontal_Rail 1
+    100010: Car_Port_Horizontal_Rail 2
+    100012: Car_Port_Leg
+    100014: Car_Port_Leg 1
+    100016: Car_Port_Leg 2
+    100018: Car_Port_Leg 3
+    100020: Car_Port_Leg 4
+    100022: Car_Port_Leg 5
+    100024: Car_Port_Leg 6
+    100026: Car_Port_Leg 7
+    100028: Car_Port_Rafter
+    100030: Car_Port_Rafter 1
+    100032: Car_Port_Rafter 2
+    100034: Car_Port_Rafter 3
+    100036: Car_Port_Rafter 4
+    100038: Car_Port_Rafter 5
+    100040: Car_Port_Rafter 6
+    100042: Car_Port_Rafter 7
+    100044: Car_Port_Roof
+    100046: Car_Port_Sidewall_One
+    100048: Car_Port_Sidewall_Two
+    100050: //RootNode
+    100052: instance_0
+    100054: instance_1
+    100056: instance_10
+    100058: instance_11
+    100060: instance_12
+    100062: instance_13
+    100064: instance_14
+    100066: instance_15
+    100068: instance_16
+    100070: instance_17
+    100072: instance_18
+    100074: instance_19
+    100076: instance_2
+    100078: instance_20
+    100080: instance_21
+    100082: instance_22
+    100084: instance_23
+    100086: instance_24
+    100088: instance_3
+    100090: instance_4
+    100092: instance_5
+    100094: instance_6
+    100096: instance_7
+    100098: instance_8
+    100100: instance_9
+    100102: Last Saved SketchUp View
+    400000: Car_Port_Complete_Frame
+    400002: Car_Port_End_Door
+    400004: Car_Port_End_Panel_Solid
+    400006: Car_Port_Horizontal_Rail
+    400008: Car_Port_Horizontal_Rail 1
+    400010: Car_Port_Horizontal_Rail 2
+    400012: Car_Port_Leg
+    400014: Car_Port_Leg 1
+    400016: Car_Port_Leg 2
+    400018: Car_Port_Leg 3
+    400020: Car_Port_Leg 4
+    400022: Car_Port_Leg 5
+    400024: Car_Port_Leg 6
+    400026: Car_Port_Leg 7
+    400028: Car_Port_Rafter
+    400030: Car_Port_Rafter 1
+    400032: Car_Port_Rafter 2
+    400034: Car_Port_Rafter 3
+    400036: Car_Port_Rafter 4
+    400038: Car_Port_Rafter 5
+    400040: Car_Port_Rafter 6
+    400042: Car_Port_Rafter 7
+    400044: Car_Port_Roof
+    400046: Car_Port_Sidewall_One
+    400048: Car_Port_Sidewall_Two
+    400050: //RootNode
+    400052: instance_0
+    400054: instance_1
+    400056: instance_10
+    400058: instance_11
+    400060: instance_12
+    400062: instance_13
+    400064: instance_14
+    400066: instance_15
+    400068: instance_16
+    400070: instance_17
+    400072: instance_18
+    400074: instance_19
+    400076: instance_2
+    400078: instance_20
+    400080: instance_21
+    400082: instance_22
+    400084: instance_23
+    400086: instance_24
+    400088: instance_3
+    400090: instance_4
+    400092: instance_5
+    400094: instance_6
+    400096: instance_7
+    400098: instance_8
+    400100: instance_9
+    400102: Last Saved SketchUp View
+    2300000: Car_Port_End_Door
+    2300002: Car_Port_End_Panel_Solid
+    2300004: Car_Port_Horizontal_Rail
+    2300006: Car_Port_Horizontal_Rail 1
+    2300008: Car_Port_Horizontal_Rail 2
+    2300010: Car_Port_Leg
+    2300012: Car_Port_Leg 1
+    2300014: Car_Port_Leg 2
+    2300016: Car_Port_Leg 3
+    2300018: Car_Port_Leg 4
+    2300020: Car_Port_Leg 5
+    2300022: Car_Port_Leg 6
+    2300024: Car_Port_Leg 7
+    2300026: Car_Port_Rafter
+    2300028: Car_Port_Rafter 1
+    2300030: Car_Port_Rafter 2
+    2300032: Car_Port_Rafter 3
+    2300034: Car_Port_Rafter 4
+    2300036: Car_Port_Rafter 5
+    2300038: Car_Port_Rafter 6
+    2300040: Car_Port_Rafter 7
+    2300042: Car_Port_Roof
+    2300044: Car_Port_Sidewall_One
+    2300046: Car_Port_Sidewall_Two
+    3300000: Car_Port_End_Door
+    3300002: Car_Port_End_Panel_Solid
+    3300004: Car_Port_Horizontal_Rail
+    3300006: Car_Port_Horizontal_Rail 1
+    3300008: Car_Port_Horizontal_Rail 2
+    3300010: Car_Port_Leg
+    3300012: Car_Port_Leg 1
+    3300014: Car_Port_Leg 2
+    3300016: Car_Port_Leg 3
+    3300018: Car_Port_Leg 4
+    3300020: Car_Port_Leg 5
+    3300022: Car_Port_Leg 6
+    3300024: Car_Port_Leg 7
+    3300026: Car_Port_Rafter
+    3300028: Car_Port_Rafter 1
+    3300030: Car_Port_Rafter 2
+    3300032: Car_Port_Rafter 3
+    3300034: Car_Port_Rafter 4
+    3300036: Car_Port_Rafter 5
+    3300038: Car_Port_Rafter 6
+    3300040: Car_Port_Rafter 7
+    3300042: Car_Port_Roof
+    3300044: Car_Port_Sidewall_One
+    3300046: Car_Port_Sidewall_Two
+    4300000: Car_Port_Leg
+    4300002: Car_Port_Horizontal_Rail
+    4300004: Car_Port_Rafter
+    4300006: Car_Port_Sidewall_Two
+    4300008: Car_Port_Sidewall_One
+    4300010: Car_Port_End_Door
+    4300012: Car_Port_End_Panel_Solid
+    4300014: Car_Port_Roof
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
