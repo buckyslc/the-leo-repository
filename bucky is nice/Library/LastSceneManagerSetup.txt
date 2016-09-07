@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/bucky-scene.unity
+- path: Assets/urbanartsfestscene.unity
   isLoaded: 1
   isActive: 1
